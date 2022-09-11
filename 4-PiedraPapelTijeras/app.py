@@ -1,1 +1,0 @@
-#Juego piedra papel o tijeras
