@@ -1,7 +1,7 @@
 # 25ProyectosPy
 25 Proyectos en Python
 
-	1.	MadLibs
+	1.	MadLibs 👌
 	2.	Adivina el número (computadora)
 	3.	Adivina el número (usuario)
 	4.	Piedra, Papel o Tijeras
