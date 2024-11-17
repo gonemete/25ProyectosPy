@@ -2,8 +2,8 @@
 25 Proyectos en Python
 
 	1.	MadLibs 👌
-	2.	Adivina el número (computadora)
-	3.	Adivina el número (usuario)
+	2.	Adivina el número (computadora) 👌
+	3.	Adivina el número (usuario) 👌
 	4.	Piedra, Papel o Tijeras
 	5.	Ahorcado
 	6.	Temporizador de cuenta Regresiva
