@@ -7,8 +7,8 @@
 	4.	Piedra, Papel o Tijeras 👌
 	5.	Ahorcado 👀
 	6.	Temporizador de cuenta Regresiva 👌
-	7.	Generador de contraseñas
-	8.	QR codificador / decodificador de código
+	7.	Generador de contraseñas 👀👌
+	8.	QR codificador / decodificador de código 👌
 	9.	Tic-tac-toe
 	10.	Tica-tac-toe IA
 	11.	Búsqueda binaria
