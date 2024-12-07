@@ -1,3 +1,5 @@
 /.venv
 playground.py
-5_Ahorcado.py
+9_Tic-tac-toe.py
+13_Solucionador_Sudokus.py
+16_Pong.py
